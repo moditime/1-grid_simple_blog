@@ -39,3 +39,6 @@ Starting Laravel development server: http://127.0.0.1:8000
 
 ## To run the unit test 
 php artisan test
+
+## To see a complete route list 
+php artisan route:list
